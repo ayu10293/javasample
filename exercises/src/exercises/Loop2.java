@@ -1,0 +1,9 @@
+package exercises;
+
+public class Loop2{
+  public static void main(String[] args){
+    for(int i = 0; i < 3; i++){        //カウンタ変数の条件
+      System.out.println("i = " + i); //カウンタ変数のインクリメント
+    }
+  }
+}
