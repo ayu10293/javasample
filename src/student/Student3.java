@@ -17,7 +17,7 @@ class Student3{
     mathScore = m;
   }
   void display(){
-    System.out.println(name + "����");
-    System.out.println("�p��" + engScore + "�_�E���w" + mathScore + "�_");
+    System.out.println(name + "さん");
+    System.out.println("英語" + engScore + "点・数学" + mathScore + "点");
   }
 }

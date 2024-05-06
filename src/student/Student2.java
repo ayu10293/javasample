@@ -14,7 +14,7 @@ public class Student2{
   }
   void setScore(int e, int m){
     engScore = e;
-    mathScore = m;ggg
+    mathScore = m;
   }
   double getAvg() {
 	double avg = engScore + mathScore /2.0;

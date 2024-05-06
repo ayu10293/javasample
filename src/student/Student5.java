@@ -10,11 +10,11 @@ public class Student5{
     if(0 <= s && s <= 100){
       score = s;
     } else {
-      System.out.println(name + "����̓_�����͈͊O�ł�");
+      System.out.println(name + "さんの点数が範囲外です。");
       score = 0;
     }
   }
   void display(){
-    System.out.println(name + "����F" + score + "�_");
+    System.out.println(name + "さん" + score + "点");
   }
 }

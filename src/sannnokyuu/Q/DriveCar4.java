@@ -1,4 +1,5 @@
-class DriveCar4{
+package sannnokyuu.Q;
+public class DriveCar4{
   public static void main(String[] args){
     Car4 c1 = new Car4();
     c1.display();
