@@ -10,6 +10,6 @@ public class Student3 extends Person3{
   }
   public void display(){
     super.display();
-    System.out.println("ŠwĞ”Ô†F" + stuNo);
+    System.out.println("å­¦ç±ç•ªå·" + stuNo);
   }
 }

@@ -1,6 +1,9 @@
 public class StuSample3{
   public static void main(String[] args){
-    Student3 stu = new Student3("›Œ´");
+    Student3 stu = new Student3("è…åŸ");
     stu.display();
+    
+    Teacher3 tea = new Teacher3("ä½ã€…æœ¨");
+    tea.display();
   }
 }

@@ -5,6 +5,6 @@ public class Person3{
     this.name = name;
   }
   public void display(){
-    System.out.println("–¼‘OF" + name);
+    System.out.println("åå‰ï¼š" + name);
   }
 }
