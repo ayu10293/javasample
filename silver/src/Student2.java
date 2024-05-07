@@ -5,7 +5,7 @@ public class Student2 extends Person2{
     stuNo = s;
   }
   public void display(){
-    System.out.println("名前：" + getName());
-    System.out.println("学籍番号：" + stuNo);
+    System.out.println("蜷榊燕" + getName());
+    System.out.println("蟄ｦ邀咲分蜿ｷ" + stuNo);
   }
 }

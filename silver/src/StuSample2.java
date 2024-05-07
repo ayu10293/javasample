@@ -1,8 +1,14 @@
 public class StuSample2{
   public static void main(String[] args){
     Student2 stu = new Student2();
-    stu.setName("›Œ´");    
+    Teacher2 tea = new Teacher2();
+    
+    stu.setName("è…åŸ");    
     stu.setStuNo(1);
     stu.display();
+    
+    tea.setName("å±±ç”°");
+    tea.setTeaNo(8);
+    tea.display();
   }
 }

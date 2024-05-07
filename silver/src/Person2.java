@@ -8,6 +8,6 @@ public class Person2{
     return name;
   }
   public void display(){
-    System.out.println("–¼‘OF" + name);
+    System.out.println("åå‰" + name);
   }
 }
