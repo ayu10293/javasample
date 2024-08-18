@@ -5,7 +5,7 @@ public class Q4_Main {
 	public static void main(String[] args) {
 //		System.out.println("ABC"+9+1+2);
 //		System.out.println("ABC"+(9+1)+2);
-		char i = 'あ';
+		char i = 'a';
 		System.out.println(i);
 		int a = i;
 		System.out.println(a);
