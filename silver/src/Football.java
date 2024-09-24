@@ -1,10 +1,10 @@
 public class Football extends Club{
-  public Football(String name){
+  public Football(String name){//ã‚³ãƒ³ã‚¹ãƒˆãƒ©ã‚¯ã‚¿
     super(name);
   }
   public void practice(){
-    System.out.println("ƒhƒŠƒuƒ‹—ûK");
-    System.out.println("ƒVƒ…[ƒg—ûK");
-    System.out.println("ƒ~ƒjƒQ[ƒ€");
+    System.out.println("ãƒ‰ãƒªãƒ–ãƒ«ç·´ç¿’");
+    System.out.println("ã‚·ãƒ¥ãƒ¼ãƒˆç·´ç¿’");
+    System.out.println("ãƒŸãƒ‹ã‚²ãƒ¼ãƒ ");
   }
 }

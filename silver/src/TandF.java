@@ -1,10 +1,10 @@
 public class TandF extends Club{
-  public TandF(String name){
+  public TandF(String name){//繧ｳ繝ｳ繧ｹ繝医Λ繧ｯ繧ｿ
     super(name);
   }
   public void practice(){
-    System.out.println("ウォームアップ");
-    System.out.println("インターバル");
-    System.out.println("筋肉トレーニング");
+    System.out.println("繧ｦ繧ｩ繝ｼ繝繧｢繝�繝�");
+    System.out.println("繧､繝ｳ繧ｿ繝ｼ繝舌Ν");
+    System.out.println("遲玖ｉ繝医Ξ繝ｼ繝九Φ繧ｰ");
   }
 }

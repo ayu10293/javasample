@@ -1,13 +1,13 @@
 public class Student6{
-  private String name;     // –¼
-  private Club club;       // ClubƒIƒuƒWƒFƒNƒg
+  private String name;     // æ°å
+  private Club club;       // Clubã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆ
 
-  public Student6(String name, Club club){
+  public Student6(String name, Club club){//ã‚³ãƒ³ã‚¹ãƒˆãƒ©ã‚¯ã‚¿
     this.name = name;
     this.club = club;
   }
   public void display(){
-    System.out.println("–¼‘OF" + name);
+    System.out.println("åå‰" + name);
     club.display();
   }
   public void practice(){
