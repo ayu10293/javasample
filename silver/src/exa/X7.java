@@ -1,4 +1,4 @@
-package exa;
+package exa;//40
 
 public class X7 {
 	public static void foo(String... args) {
